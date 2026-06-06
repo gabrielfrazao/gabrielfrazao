@@ -1,8 +1,8 @@
 <div align="center">
 
-# Olá, eu sou o Gabriel Frazão 👋
+# Olá, eu sou o Gabriel Frazão Manoel 👋
 
-### Desenvolvedor em formação · Dados & IA · Braga, Portugal 🇵🇹
+###  Dados & IA · Braga, Portugal 🇵🇹
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-frazão-manoel)
 [![Site](https://img.shields.io/badge/Site_Pessoal-000000?style=for-the-badge&logo=About.me&logoColor=white)](http://www.gabrielfrazao.com/)
@@ -15,12 +15,11 @@
 ## 🙋 Sobre mim
 
 Sou apaixonado por tecnologia e por como ela pode melhorar a vida das pessoas.
-Atualmente focado em **desenvolvimento web**, **banco de dados** e **inteligência artificial aplicada a dados**, com experiência em Java, C#, HTML/CSS e SQL — e sempre aprendendo.
+Atualmente focado em   **inteligência artificial aplicada a dados**, com experiência em Python, Java, C#, HTML/CSS e SQL — e sempre aprendendo.
 
-- 🎓 Formação em desenvolvimento de software
+- 🎓 Formação em Ciências da Computação
 - 🌍 Baseado em **Braga, Portugal**
-- 📚 Concluí bootcamps **Santander + DIO** (Front-End) e **Heineken + DIO** (IA & Dados)
-- 🤝 Aberto a oportunidades em desenvolvimento e dados
+- 🤝 Aberto a oportunidades em Proejtos de IA e dados
 
 ---
 
