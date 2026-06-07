@@ -1,19 +1,13 @@
 <div align="center">
 
-<<<<<<< HEAD
-# Olá, eu sou o Gabriel Frazão Manoel 👋
-
-###  Dados & IA · Braga, Portugal 🇵🇹
-=======
 <a href="./README.md">🇬🇧</a> &nbsp;
 <a href="./README.pt.md">🇵🇹</a> &nbsp;
 <a href="./README.it.md">🇮🇹</a> &nbsp;
 <a href="./README.fr.md">🇫🇷</a>
 
 <br/><br/>
->>>>>>> dc1913f (feat: multi-language profile README with flag switcher (EN/PT/IT/FR))
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Gabriel+Fraz%C3%A3o+%F0%9F%91%8B;Software+%26+Data+Engineer;AI+%7C+Architecture+%7C+Analytics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Ciao%2C+sono+Gabriel+Fraz%C3%A3o+%F0%9F%91%8B;Ingegnere+Software+%26+Dati;AI+%7C+Architettura+%7C+Analytics)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/gabriel-frazão-manoel">
@@ -27,38 +21,29 @@
   </a>
 </p>
 
-![Profile views](https://komarev.com/ghpvc/?username=gabrielfrazao&color=7C3AED&style=flat-square&label=Profile+Views)
+![Visite al profilo](https://komarev.com/ghpvc/?username=gabrielfrazao&color=7C3AED&style=flat-square&label=Visite+al+Profilo)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Su di Me
 
-<<<<<<< HEAD
-Sou apaixonado por tecnologia e por como ela pode melhorar a vida das pessoas.
-Atualmente focado em   **inteligência artificial aplicada a dados**, com experiência em Python, Java, C#, HTML/CSS e SQL — e sempre aprendendo.
+> *"Appassionato di come la tecnologia possa risolvere problemi reali — dai pipeline di dati ai sistemi intelligenti."*
 
-- 🎓 Formação em Ciências da Computação
-- 🌍 Baseado em **Braga, Portugal**
-- 🤝 Aberto a oportunidades em Proejtos de IA e dados
-=======
-> *"Passionate about how technology can solve real-world problems — from data pipelines to intelligent systems."*
+Sono **Laureato in Informatica**, con sede a **Braga, Portogallo 🇵🇹**, focalizzato su **Ingegneria dei Dati**, **Intelligenza Artificiale** e **Architettura Software**. Mi piace costruire sistemi puliti, scalabili e significativi.
 
-I'm a **Computer Science graduate** based in **Braga, Portugal 🇵🇹**, with a focus on **Data Engineering**, **AI**, and **Software Architecture**. I enjoy building systems that are clean, scalable, and meaningful.
-
-- 🎓 **B.Sc. in Computer Science**
-- 🤖 Interested in **AI/ML**, **Data Architecture** and **Software Design Patterns**
-- 🌍 Based in **Braga, Portugal** — open to remote & relocation
-- 📚 Completed **Santander + DIO** (Front-End) and **Heineken + DIO** (AI & Data) bootcamps
-- 🚀 Open to projects in **Artificial Intelligence · Software Architecture · Data Engineering**
->>>>>>> dc1913f (feat: multi-language profile README with flag switcher (EN/PT/IT/FR))
+- 🎓 **Laurea Triennale in Informatica**
+- 🤖 Interessato a **AI/ML**, **Architettura dei Dati** e **Design Pattern Software**
+- 🌍 Con sede a **Braga, Portogallo** — aperto a remoto & trasferimento
+- 📚 Completati bootcamp **Santander + DIO** (Front-End) e **Heineken + DIO** (AI & Dati)
+- 🚀 Aperto a progetti di **Intelligenza Artificiale · Architettura Software · Ingegneria dei Dati**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnologico
 
-**Languages**
+**Linguaggi**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -67,14 +52,14 @@ I'm a **Computer Science graduate** based in **Braga, Portugal 🇵🇹**, with 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Data & BI**
+**Dati & BI**
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-F29111?style=flat-square&logo=mysql&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/Data_Modeling-4A90D9?style=flat-square&logo=databricks&logoColor=white)
+![Modellazione Dati](https://img.shields.io/badge/Modellazione_Dati-4A90D9?style=flat-square&logo=databricks&logoColor=white)
 
-**AI & Tools**
+**AI & Strumenti**
 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -84,58 +69,58 @@ I'm a **Computer Science graduate** based in **Braga, Portugal 🇵🇹**, with 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Progetti in Evidenza
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🍺 Heineken IA &amp; Dados — DIO</h3>
-      <p>Relational database modeling for real-world systems (Auto Shop &amp; E-Commerce). Full SQL scripts with DDL, DML and 12 analytical queries covering JOIN, GROUP BY, HAVING and CASE WHEN.</p>
+      <p>Modellazione di database relazionale per sistemi reali (Officina &amp; E-Commerce). Script SQL completi con DDL, DML e 12 query analitiche con JOIN, GROUP BY, HAVING e CASE WHEN.</p>
       <p>
         <img src="https://img.shields.io/badge/SQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/Data_Modeling-4A90D9?style=flat-square" />
       </p>
-      <a href="https://github.com/gabrielfrazao/HeinekenIADados">→ View Repository</a>
+      <a href="https://github.com/gabrielfrazao/HeinekenIADados">→ Vedi Repository</a>
     </td>
     <td width="50%" valign="top">
       <h3>🌐 Santander Front-End — DIO</h3>
-      <p>Web page with semantic HTML5, modern CSS using Custom Properties and BEM, Mobile-First responsiveness, WCAG 2.1 accessibility and automatic dark/light mode.</p>
+      <p>Pagina web con HTML5 semantico, CSS moderno con Custom Properties e BEM, responsive Mobile-First, accessibilità WCAG 2.1 e dark/light mode automatico.</p>
       <p>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/A11y-005A9C?style=flat-square" />
       </p>
-      <a href="https://github.com/gabrielfrazao/LearningSantanderDio">→ View Repository</a>
+      <a href="https://github.com/gabrielfrazao/LearningSantanderDio">→ Vedi Repository</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏨 Pousada Marau — Reservation System</h3>
-      <p>Desktop management system for hotel room reservations built in C#. Applies OOP principles: inheritance, encapsulation and polymorphism.</p>
+      <h3>🏨 Pousada Marau — Sistema Prenotazioni</h3>
+      <p>Sistema desktop per la gestione delle prenotazioni in C#. Applica principi OOP: ereditarietà, incapsulamento e polimorfismo.</p>
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/OOP-grey?style=flat-square" />
       </p>
-      <a href="https://github.com/gabrielfrazao/Pousada-marau">→ View Repository</a>
+      <a href="https://github.com/gabrielfrazao/Pousada-marau">→ Vedi Repository</a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏥 Medical Records System — Java</h3>
-      <p>Desktop Java application with Swing GUI and MySQL for medical records management. Full Java + SQL integration via JDBC with a data persistence layer.</p>
+      <h3>🏥 Sistema Cartelle Cliniche — Java</h3>
+      <p>Applicazione desktop Java con GUI Swing e MySQL per la gestione di cartelle cliniche. Integrazione Java + SQL via JDBC con layer di persistenza.</p>
       <p>
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/JDBC-grey?style=flat-square" />
       </p>
-      <a href="https://github.com/gabrielfrazao/Projeto-01">→ View Repository</a>
+      <a href="https://github.com/gabrielfrazao/Projeto-01">→ Vedi Repository</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Statistiche GitHub
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gabrielfrazao&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9" />
@@ -148,22 +133,22 @@ I'm a **Computer Science graduate** based in **Braga, Portugal 🇵🇹**, with 
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Formazione & Certificazioni
 
-| Degree / Program | Institution | Focus | Year |
+| Corso / Programma | Istituzione | Focus | Anno |
 |---|---|---|---|
-| 🎓 B.Sc. Computer Science | University | Software Engineering & CS Fundamentals | — |
-| 🍺 Heineken — AI Applied to Data | DIO | SQL, Data Modeling, AI & Analytics | 2024 |
-| 🌐 Santander — Web Development | DIO | HTML, CSS, Front-End, Accessibility | 2024 |
+| 🎓 Laurea Triennale in Informatica | Università | Ingegneria del Software & Fondamenti CS | — |
+| 🍺 Heineken — AI Applicata ai Dati | DIO | SQL, Modellazione, AI & Analytics | 2024 |
+| 🌐 Santander — Sviluppo Web | DIO | HTML, CSS, Front-End, Accessibilità | 2024 |
 
 ---
 
 <div align="center">
 
-### 💬 Open to collaboration on AI · Software Architecture · Data projects
+### 💬 Aperto a collaborazioni in AI · Architettura Software · Dati
 
-*Let's build something meaningful together.*
+*Costruiamo qualcosa di significativo insieme.*
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-frazão-manoel)
+[![Connettiti su LinkedIn](https://img.shields.io/badge/Connettiti_su_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-frazão-manoel)
 
 </div>
