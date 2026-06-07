@@ -1,17 +1,11 @@
 <div align="center">
 
-<<<<<<< HEAD
-# Olá, eu sou o Gabriel Frazão Manoel 👋
-
-###  Dados & IA · Braga, Portugal 🇵🇹
-=======
 <a href="./README.md">🇬🇧</a> &nbsp;
 <a href="./README.pt.md">🇵🇹</a> &nbsp;
 <a href="./README.it.md">🇮🇹</a> &nbsp;
 <a href="./README.fr.md">🇫🇷</a>
 
 <br/><br/>
->>>>>>> dc1913f (feat: multi-language profile README with flag switcher (EN/PT/IT/FR))
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Gabriel+Fraz%C3%A3o+%F0%9F%91%8B;Software+%26+Data+Engineer;AI+%7C+Architecture+%7C+Analytics)](https://git.io/typing-svg)
 
@@ -35,14 +29,6 @@
 
 ## 👨‍💻 About Me
 
-<<<<<<< HEAD
-Sou apaixonado por tecnologia e por como ela pode melhorar a vida das pessoas.
-Atualmente focado em   **inteligência artificial aplicada a dados**, com experiência em Python, Java, C#, HTML/CSS e SQL — e sempre aprendendo.
-
-- 🎓 Formação em Ciências da Computação
-- 🌍 Baseado em **Braga, Portugal**
-- 🤝 Aberto a oportunidades em Proejtos de IA e dados
-=======
 > *"Passionate about how technology can solve real-world problems — from data pipelines to intelligent systems."*
 
 I'm a **Computer Science graduate** based in **Braga, Portugal 🇵🇹**, with a focus on **Data Engineering**, **AI**, and **Software Architecture**. I enjoy building systems that are clean, scalable, and meaningful.
@@ -52,7 +38,6 @@ I'm a **Computer Science graduate** based in **Braga, Portugal 🇵🇹**, with 
 - 🌍 Based in **Braga, Portugal** — open to remote & relocation
 - 📚 Completed **Santander + DIO** (Front-End) and **Heineken + DIO** (AI & Data) bootcamps
 - 🚀 Open to projects in **Artificial Intelligence · Software Architecture · Data Engineering**
->>>>>>> dc1913f (feat: multi-language profile README with flag switcher (EN/PT/IT/FR))
 
 ---
 
