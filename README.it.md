@@ -1,9 +1,6 @@
 <div align="center">
 
-<a href="./README.md">🇬🇧</a> &nbsp;
-<a href="./README.pt.md">🇵🇹</a> &nbsp;
-<a href="./README.it.md">🇮🇹</a> &nbsp;
-<a href="./README.fr.md">🇫🇷</a>
+[🇬🇧 English](./README.md) &nbsp;·&nbsp; [🇵🇹 Português](./README.pt.md) &nbsp;·&nbsp; **🇮🇹 Italiano** &nbsp;·&nbsp; [🇫🇷 Français](./README.fr.md)
 
 <br/><br/>
 

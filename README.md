@@ -1,11 +1,8 @@
 <div align="center">
 
-<a href="./README.md">🇬🇧</a> &nbsp;
-<a href="./README.pt.md">🇵🇹</a> &nbsp;
-<a href="./README.it.md">🇮🇹</a> &nbsp;
-<a href="./README.fr.md">🇫🇷</a>
+**🇬🇧 English** &nbsp;·&nbsp; [🇵🇹 Português](./README.pt.md) &nbsp;·&nbsp; [🇮🇹 Italiano](./README.it.md) &nbsp;·&nbsp; [🇫🇷 Français](./README.fr.md)
 
-<br/><br/>
+<br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Gabriel+Fraz%C3%A3o+%F0%9F%91%8B;Software+%26+Data+Engineer;AI+%7C+Architecture+%7C+Analytics)](https://git.io/typing-svg)
 
